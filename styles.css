@@ -30,7 +30,7 @@ h2 {
     color: hsl(218, 44%, 22%);
     text-align: center;
     margin: 10px 20px 5px 20px;
-    padding-top: 25px;
+    padding-top: 30px;
 }
 
 p {
@@ -38,7 +38,7 @@ p {
     text-align: center;
     color:hsl(220, 15%, 55%);
     margin: 10px 35px 10px 35px; 
-    padding-top: 25px;
+    padding-top: 30px;
 }
 
 @media (max-width: 1005px) {
