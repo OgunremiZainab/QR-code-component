@@ -41,7 +41,7 @@ p {
     margin: 0 35px 10px 35px;   
 }
 
-@media (min-width: 500px) {
+@media (max-width: 1005px) {
     .container {
         width: 50%;
         max-width: 1440px;
